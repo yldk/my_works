@@ -1,0 +1,12 @@
+{
+	"Sprint":"The 100-meter dash is the shortest distance race in track and field, and it is also known as the race to challenge the human speed limit. By 2015, the world record for men's 100-meter dash was Bolt's record of 9.58 seconds at the 2009 Berlin Track and Field Championship. Its movement characteristics: people run the prescribed distance on the determined runway at the fastest speed at the same time, and take the first runner as the winner; in the aspect of human body function energy supply, it shows that the human body exerts human instinct to the greatest extent and provides energy by anaerobic metabolism.",
+	"Chinese_name":"短跑",
+	"English_name":"Sprint",
+	"Basic_skills":[{"Start off":"The task of starting is to get forward momentum, get the body out of the static state quickly, and create favorable conditions for acceleration after starting"},
+					{"Squat start":["Installation of starting blocks","Starting skills","Acceleration after starting"]},
+					{"Standing start":"Open your feet back and forth, from one foot to one foot and a half, bend your knees and lower your center of gravity, lean forward, bend your elbows on the opposite side of your forelegs in front and behind you. When you hear the run command, push your feet forward and rush out quickly. Emphasis: center of gravity forward. Difficulty: Start quickly"}],
+
+	"World_sprint_record":[{"Man record":["100米 9.58 0.9 博尔特 1986-8-21 牙买加 德国 柏林 2009-08-17","200米 19.19 逆风0.9 博尔特 1986-8-21 牙买加 德国 柏林 2009-08-21","110米栏：12秒80，阿里斯·梅里特 美国 2012年9月7日"]},
+							{"Women record":["100米10.490.0乔伊纳1959-12-21美国印第安纳波利斯1988-07-16","200米21.341.3乔伊纳1959-12-21韩国汉城1988-09-29","400米47.60科赫1957-02-18GDR堪培拉1985-10-0"]}],
+	
+}
